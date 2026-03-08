@@ -4,3 +4,4 @@ second tag test
 third tag test
 real e2e test
 force push test
+new tag test
